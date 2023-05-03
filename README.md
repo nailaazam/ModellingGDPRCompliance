@@ -27,3 +27,4 @@ non-compliance threats over the knowledge base. Finally, we
 demonstrate our solution for threats of non-compliance with
 legal basis and accountability in a telehealth system to show
 the feasibility and effectiveness of the proposed solution.
+![DFD-GDPRcompliance](https://user-images.githubusercontent.com/132493093/236053887-93ce97b7-9fcc-450b-b0ab-c36fe2a7c5e4.png)
