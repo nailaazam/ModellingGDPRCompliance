@@ -23,4 +23,4 @@ Microsoft provides a Threat Modeling Tool (MS TMT) that allows not only to prepa
 
 We have prepared a new template specifically for Telehealth Services System modeled the non-compliance threats. The noncompliance-template allows us to import GDPR entities such as DS, DP, DC, SA, etc into the model and use non-compliance specific trust boundary.
 
-The non-compliance template (https://github.com/nailaazam/ModellingGDPRCompliance/blob/main/nonCompliant.tb7)  and its Threat Report (https://github.com/nailaazam/ModellingGDPRCompliance/blob/main/Threat%20Modeling%20Report-noncompliance.html) is available in this repo.
+The [non-compliance template]{(https://github.com/nailaazam/ModellingGDPRCompliance/blob/main/nonCompliant.tb7)} and its [Threat Report]{https://github.com/nailaazam/ModellingGDPRCompliance/blob/main/Threat%20Modeling%20Report-noncompliance.html} is available in this repo.
